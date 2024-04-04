@@ -1,69 +1,56 @@
 ## Your Name
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+Transitioning from Apple and B2B sales, I bring a unique blend of business acumen, creativity, and software development skills to excel as a junior developer.
 
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| **<a href="https://github.com/clairep94/oppo-games-group6">OppoGames</a>**          | Full-stack social-gaming site with a live gaming lobby, user vs user gaming, comments feed, and scoreboard. | MERN stack, socket.io and Tailwind CSS. |
+| **<a href="https://github.com/raybrowndev/acebook-mern-overREACTers">Acebook</a>** | Social media, sharing platform with login/sign up, comment, like, live feed and upload image features | MERN stack, JSON, with jest and cypress testing  |
+| **<a href="https://greenandmoore.co.uk">Green and Moore Accountancy</a>** | Frontend development and deployment of a sustainable and eco-friendly accountancy business | HTML, CSS, JavaScript, PHP, WordPress, SEO |
 
-## Work Experience
+## Work History
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+💻   **Makers Academy** (Sep 2023 to Jan 2024) 
+_Software Engineering Student_
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+- **Object-Oriented Programming** - Experienced in object-oriented programming principles with a strong grasp of SOLID principles, specialising in class structure and CRUD operations.
+- **Design** - Proficient in HTML/CSS along with frameworks and libraries such as TypeScript, Tailwind CSS, and React. Implemented Figma, Adobe XD, and Canva design tools.
+- **Quality Assurance** - Developed projects using Test-Driven Development (TDD), integration mock testing, and debugging. Adhering to Git and GitHub best practices.
+- **Team Project Development** - Agile Collaboration and Problem Solving in team projects. Collaborated effectively in an agile team environment, resulting in better communication with GitHub merge conflicts and efficient sprint cycles.
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+** Apple** (Nov 2018 - Present)  
+_Business Expert_
 
-- Any experience relevent to software development
+- **Coding Workshop Facilitation** - Conducted many in-store “Code Your First App” sessions, using Swift Playgrounds to a diverse audience of all ages and technical background experience. Showcased effective presentation and jargon-busting communication skills to accommodate various levels of understanding.
+-  **Client Relationship Management (CRM) Solutions** - Established and nurtured client relationships with both emerging tech start-ups and S&P 500 companies. Provided business software solutions to address and understand client-specific pain points.
+- **Cross-Functional Collaboration** - Utilised internal support through cross-functional collaboration. Demonstrated effective collaboration skills, contributing to the timely achievement of team goals.
+- **iOS and MacOS** - Regularly supported troubleshooting of iOS and MacOS software. Displayed strong problem-solving skills in a fast-paced environment.
+- **Sales Achievement and Business Insight** - Consistently achieved top sales ranking among flagship stores. Demonstrated a results-driven approach and deep understanding of business insight.
+- **Streamlined CRM Process and Deal Closure** - Developed a streamlined CRM process for clients. Closed deals exceeding £50,000 with large companies, showcasing agility in workflow and a commitment to self-development.
 
-## Skills
+🎨  **Freelance Web Designer** (Nov 2019 - Aug 2022)
 
-Your previous experience is really important. You will need to make it really clear to someone who has not worked in your field before exactly how your experience will be useful in software development.
-
-Consider skills relevent to software development. Then consider projects you've worked on before Makers that you feel proud of and/or you think are relevent to technology. Good examples clearly explain the impact you've had. 
-
-
-Here's an example
-
-#### Communication
-I honed my communication skills while completing my thesis at university, which involved writing and defending a dissertation to a board of professors and Ph.D. candidates. I further developed these skills when I was working in a digital marketing agency where I presented quarterly business reviews to C-level stakeholders. In doing so, I synthesised complex technical information into a digestible but comprehensive story for the different levels of knowledge in the room. My communication skills have also often come in handy while training to be a developer. For example, I recently ran a session for my mentees, who have only been coding for a few weeks, on how to use mocks to improve unit test isolation. I received feedback that the session was well run and helped them understand this potentially confusing topic.
-
-#### Another skill
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
-#### Another skill
+- **WordPress Development** - Developed websites using WordPress, to develop customised websites, implementing additional plug-ins for a unique experience.
+- **SEO & HTML/CSS**  - Managed email marketing conversion rates and designs for client websites. Enhancing my skills in website marketing, resulting in increased traffic for the desired target audience by 8% in 2 months.
+- **UI/UX Design** - Created user-centric high-fidelity wireframes in Adobe XD and Figma for efficient client design adjustments, transferring these skills to enhance UML diagram communication with cross-functional teams.
+- **Sustainable Backend Development** - Designed lightweight, low-carbon websites. Resulting in high-speed websites with an average of 0.46g of CO2, cleaner than 52% of websites.  
+- **Security Maintenance** - Manages security measures, using tools such as cPanel. Demonstrating my commitment to creating a secure website, and providing peace of mind to clients. 
 
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+#### BUSINESS MANAGEMENT & FINANCE BSC., BPP UNIVERSITY - LONDON
 
-#### Your University / College (start_date to end_date)
+- Grade: First Class Honours
+- Awards: Achieved the highest grade in the university cohort for the following modules; Omni-Chanel Digital Marketing, Business
+Finance and Business SaaS.
+- Dissertation: "The critical analysis of the impact of the single-use plastic on businesses environmental values in the UK”.
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
-
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+🚲 Cycling
+✈ Travelling
+🌍 Sustainable Volunteering
